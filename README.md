@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<a href="https://www.reciclaia.online/">
-  <img src="https://www.reciclaia.online/recicla-ia-official-logo.png" width="500">
-</a>
+<p align="center">
+  <a href="https://www.reciclaia.online/">
+    <img src="https://www.reciclaia.online/recicla-ia-official-logo.png" alt="Recicla IA" width="300"/>
+  </a>
+</p>
+
 
 
 
