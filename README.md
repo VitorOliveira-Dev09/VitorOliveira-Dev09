@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗██╗████████╗ ██████╗ ██████╗ 
-██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
-██║   ██║██║   ██║   ██║   ██║██████╔╝
-╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
- ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║
-  ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
+
 
 ### Junior Full Stack Developer · Information Security Student
 ### Backend · Cybersecurity · Linux · Infrastructure
@@ -55,8 +48,8 @@ Currently studying **Information Security** and working as a **Junior Full Stack
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VitorOliveira-Dev09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOliveira-Dev09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://readme-stats-git-master-denvercoder9.vercel.app/api?username=VitorOliveira-Dev09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://readme-stats-git-master-denvercoder9.vercel.app/api/top-langs/?username=VitorOliveira-Dev09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
@@ -66,8 +59,6 @@ Currently studying **Information Security** and working as a **Junior Full Stack
 ---
 
 ## Snake Game 🐍
-
-> Every contribution I make gets eaten. Watch the snake go through my commit history.
 
 <div align="center">
   <picture>
