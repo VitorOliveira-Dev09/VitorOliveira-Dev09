@@ -45,19 +45,6 @@ Currently studying **Information Security** and working as a **Junior Full Stack
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://readme-stats-git-master-denvercoder9.vercel.app/api?username=VitorOliveira-Dev09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://readme-stats-git-master-denvercoder9.vercel.app/api/top-langs/?username=VitorOliveira-Dev09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorOliveira-Dev09&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## Snake Game 🐍
 
 <div align="center">
