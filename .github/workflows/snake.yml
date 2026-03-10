@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: #Runs at 0 minutes past the hour, every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
