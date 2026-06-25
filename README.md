@@ -3,7 +3,7 @@
 
 
 ### Junior Full Stack Developer · Information Security Student
-### Backend · Cybersecurity · Linux · Infrastructure
+### Backend · Linux · System WEB
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-oliveira-73337a1b2/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vitordev.inf@gmail.com)
