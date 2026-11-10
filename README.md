@@ -19,9 +19,9 @@ I got into development through curiosity — specifically around how systems com
 
 Currently studying **Information Security** and working as a **Junior Full Stack Developer**, building RESTful APIs, mobile apps, and spending more time in Linux terminals than I probably should.
 
-- 🔭 Working with Python (FastAPI), Flutter, PHP/Laravel
+- 🔭 Working with Python (FastAPI), PHP/Laravel
 - 🌱 Deepening knowledge in cybersecurity, Docker, and system architecture
-- 🗄️ Databases: PostgreSQL, MySQL
+- 🗄️ Databases: PostgreSQL, MySQL, SQLite
 - 🐧 Linux enthusiast — servers, configs, and all the terminal rabbit holes that come with it
 
 ---
